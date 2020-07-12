@@ -12,5 +12,5 @@ The simulation can hold thousands of particles and devices.
 Example of a few objects
 ![](https://i.gyazo.com/ea6f473baed47d36814a61c102cabee3.gif)
 
-Large-Scale Example
-![](https://i.gyazo.com/2f6a3d9f03587fd0d0ad2a1d503e13e5.gif)
+
+[Example with many more objects](https://i.gyazo.com/2f6a3d9f03587fd0d0ad2a1d503e13e5.gif)
