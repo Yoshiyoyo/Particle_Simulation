@@ -1,6 +1,6 @@
 #
 This is a program that allows the user to utilize a GUI made in Qt to create a variety of planetoids, gray particles which are affected by physics, and devices, which act on the environment.  Graphics are rendered in OpenGL. 
-There are three types of devices the user can initialize.
+There are three types of devices the user can initialize, using the slider to adjust size.
 1. Attractors: Red, These pull particles towards themselves, mass is relative to size
 2. Repulsors:  Blue, pull particles away, mass is relative to size
 3. Generators: Teal, randomly produce particles in a direction. Larger generators produce larger, heavier particles.
